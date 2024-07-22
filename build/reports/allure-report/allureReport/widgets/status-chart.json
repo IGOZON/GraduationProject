@@ -1,0 +1,351 @@
+[ {
+  "uid" : "943fc257c5efb30a",
+  "name" : "Ввод в поле карты цифр и спецсимвола",
+  "time" : {
+    "start" : 1720764669024,
+    "stop" : 1720764669474,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d3e4bd18cde8e6",
+  "name" : "Номер карты одни нули",
+  "time" : {
+    "start" : 1720764665050,
+    "stop" : 1720764668571,
+    "duration" : 3521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7bd46bcfce2ee05",
+  "name" : "Незаполненное поле карты",
+  "time" : {
+    "start" : 1720764651358,
+    "stop" : 1720764651757,
+    "duration" : 399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64f04dd28228c5a5",
+  "name" : "Год меньше текущего на 1 год",
+  "time" : {
+    "start" : 1720764645211,
+    "stop" : 1720764645591,
+    "duration" : 380
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24e8b8bcbc86bb3b",
+  "name" : "Ввод в поле CVC/CVV одной цифры",
+  "time" : {
+    "start" : 1720764697498,
+    "stop" : 1720764697901,
+    "duration" : 403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ce463a86e570443",
+  "name" : "Поле месяца более 12",
+  "time" : {
+    "start" : 1720764668574,
+    "stop" : 1720764669022,
+    "duration" : 448
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a556fc50978d98e",
+  "name" : "Ввод в поле год цифры и спецсимволов",
+  "time" : {
+    "start" : 1720764669476,
+    "stop" : 1720764669926,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4fa4b6ff1fc1eb",
+  "name" : "Более 100 букв в поле владелец",
+  "time" : {
+    "start" : 1720764645963,
+    "stop" : 1720764650916,
+    "duration" : 4953
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "20b067c683f6afd2",
+  "name" : "Незаполненное поле CVC/CVV",
+  "time" : {
+    "start" : 1720764656791,
+    "stop" : 1720764657212,
+    "duration" : 421
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "105dae592a8a35a8",
+  "name" : "Год больше текущего на 10 лет",
+  "time" : {
+    "start" : 1720764657612,
+    "stop" : 1720764658026,
+    "duration" : 414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63c676b33f73867b",
+  "name" : "Ввод в поле год цифры и буквы",
+  "time" : {
+    "start" : 1720764671200,
+    "stop" : 1720764671633,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5c5c87837de7753",
+  "name" : "Нули в поле месяц",
+  "time" : {
+    "start" : 1720764640437,
+    "stop" : 1720764645206,
+    "duration" : 4769
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "b4ac5ad64cbecea1",
+  "name" : "Поле год не заполнено",
+  "time" : {
+    "start" : 1720764671635,
+    "stop" : 1720764672035,
+    "duration" : 400
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "51e071585b736e54",
+  "name" : "Ввод в поле месяц цифры и кириллицы",
+  "time" : {
+    "start" : 1720764664207,
+    "stop" : 1720764664614,
+    "duration" : 407
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "12769cb47c876bad",
+  "name" : "Цифра в поле владелец",
+  "time" : {
+    "start" : 1720764698776,
+    "stop" : 1720764703414,
+    "duration" : 4638
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "266c62a76322eb0c",
+  "name" : "Ввод в поле CVC/CVV цифры и спецсимвола",
+  "time" : {
+    "start" : 1720764663350,
+    "stop" : 1720764663780,
+    "duration" : 430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d5e7588c9491903",
+  "name" : "Ввод в поле карты цифр и кириллицы",
+  "time" : {
+    "start" : 1720764662887,
+    "stop" : 1720764663346,
+    "duration" : 459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e1fd9952a228841c",
+  "name" : "Одна буква в поле владелец",
+  "time" : {
+    "start" : 1720764652191,
+    "stop" : 1720764656787,
+    "duration" : 4596
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "974ecb5afe417b02",
+  "name" : "Незаполненное поле месяца",
+  "time" : {
+    "start" : 1720764657214,
+    "stop" : 1720764657610,
+    "duration" : 396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f43160f95f6f76",
+  "name" : "Ввод в поле месяц цифры и латиницы",
+  "time" : {
+    "start" : 1720764663782,
+    "stop" : 1720764664205,
+    "duration" : 423
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56fcb02a9bb77910",
+  "name" : "Покупка картой APPROVED",
+  "time" : {
+    "start" : 1720764631881,
+    "stop" : 1720764635791,
+    "duration" : 3910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6cb64b8cc5e6c69a",
+  "name" : "Спецсимвол в поле владелец",
+  "time" : {
+    "start" : 1720764658218,
+    "stop" : 1720764662884,
+    "duration" : 4666
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "de9bcf791b5bbf9",
+  "name" : "Покупка картой DECLINED",
+  "time" : {
+    "start" : 1720764672037,
+    "stop" : 1720764692764,
+    "duration" : 20727
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4da00c741154bd2f",
+  "name" : "Одна цифра в поле месяц",
+  "time" : {
+    "start" : 1720764697904,
+    "stop" : 1720764698357,
+    "duration" : 453
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f39d7a956a25da8c",
+  "name" : "Ввод в поле месяц цифры и спецсимвола",
+  "time" : {
+    "start" : 1720764650918,
+    "stop" : 1720764651356,
+    "duration" : 438
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "273f542294142b86",
+  "name" : "Ввод в поле CVC/CVV двух цифр",
+  "time" : {
+    "start" : 1720764670780,
+    "stop" : 1720764671198,
+    "duration" : 418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a210633ebb6f3c4",
+  "name" : "CVC/CVV заполнен нулями",
+  "time" : {
+    "start" : 1720764692766,
+    "stop" : 1720764697496,
+    "duration" : 4730
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "35bbd2a0181f67c1",
+  "name" : "Незаполненная форма",
+  "time" : {
+    "start" : 1720764658028,
+    "stop" : 1720764658216,
+    "duration" : 188
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ada3904672f4084",
+  "name" : "Нули в поле месяц",
+  "time" : {
+    "start" : 1720764664616,
+    "stop" : 1720764665039,
+    "duration" : 423
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ea87db466e89167c",
+  "name" : "Незаполненное поле владелец",
+  "time" : {
+    "start" : 1720764669928,
+    "stop" : 1720764670355,
+    "duration" : 427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d51857bce0e681d",
+  "name" : "Поле год одна цифра",
+  "time" : {
+    "start" : 1720764651759,
+    "stop" : 1720764652189,
+    "duration" : 430
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76b7c63822b1f4e1",
+  "name" : "Поле владелец на кириллице",
+  "time" : {
+    "start" : 1720764635838,
+    "stop" : 1720764640427,
+    "duration" : 4589
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f1305170f2556873",
+  "name" : "Ввод в поле CVC/CVV цифры и буквы",
+  "time" : {
+    "start" : 1720764670357,
+    "stop" : 1720764670779,
+    "duration" : 422
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "86f8b67d24533810",
+  "name" : "Ввод в поле карты цифр и латиницы",
+  "time" : {
+    "start" : 1720764645593,
+    "stop" : 1720764645951,
+    "duration" : 358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb463ae59513d5e",
+  "name" : "Ввод менее 16 цифр в поле карты",
+  "time" : {
+    "start" : 1720764698359,
+    "stop" : 1720764698774,
+    "duration" : 415
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

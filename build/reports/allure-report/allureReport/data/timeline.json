@@ -1,0 +1,468 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-1H3R6DM",
+    "children" : [ {
+      "name" : "36272@DESKTOP-1H3R6DM.Test worker(1)",
+      "children" : [ {
+        "name" : "Поле месяца более 12",
+        "uid" : "2ce463a86e570443",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764668574,
+          "stop" : 1720764669022,
+          "duration" : 448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле год цифры и спецсимволов",
+        "uid" : "4a556fc50978d98e",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764669476,
+          "stop" : 1720764669926,
+          "duration" : 450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Год больше текущего на 10 лет",
+        "uid" : "105dae592a8a35a8",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764657612,
+          "stop" : 1720764658026,
+          "duration" : 414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле карты цифр и спецсимвола",
+        "uid" : "943fc257c5efb30a",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764669024,
+          "stop" : 1720764669474,
+          "duration" : 450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле год цифры и буквы",
+        "uid" : "63c676b33f73867b",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764671200,
+          "stop" : 1720764671633,
+          "duration" : 433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле CVC/CVV одной цифры",
+        "uid" : "24e8b8bcbc86bb3b",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764697498,
+          "stop" : 1720764697901,
+          "duration" : 403
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Незаполненное поле карты",
+        "uid" : "b7bd46bcfce2ee05",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764651358,
+          "stop" : 1720764651757,
+          "duration" : 399
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Более 100 букв в поле владелец",
+        "uid" : "e4fa4b6ff1fc1eb",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764645963,
+          "stop" : 1720764650916,
+          "duration" : 4953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Нули в поле месяц",
+        "uid" : "a5c5c87837de7753",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764640437,
+          "stop" : 1720764645206,
+          "duration" : 4769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле карты цифр и кириллицы",
+        "uid" : "2d5e7588c9491903",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764662887,
+          "stop" : 1720764663346,
+          "duration" : 459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Покупка картой DECLINED",
+        "uid" : "de9bcf791b5bbf9",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764672037,
+          "stop" : 1720764692764,
+          "duration" : 20727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле месяц цифры и кириллицы",
+        "uid" : "51e071585b736e54",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764664207,
+          "stop" : 1720764664614,
+          "duration" : 407
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Год меньше текущего на 1 год",
+        "uid" : "64f04dd28228c5a5",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764645211,
+          "stop" : 1720764645591,
+          "duration" : 380
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Незаполненное поле CVC/CVV",
+        "uid" : "20b067c683f6afd2",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764656791,
+          "stop" : 1720764657212,
+          "duration" : 421
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле месяц цифры и латиницы",
+        "uid" : "4f43160f95f6f76",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764663782,
+          "stop" : 1720764664205,
+          "duration" : 423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Цифра в поле владелец",
+        "uid" : "12769cb47c876bad",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764698776,
+          "stop" : 1720764703414,
+          "duration" : 4638
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле CVC/CVV цифры и спецсимвола",
+        "uid" : "266c62a76322eb0c",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764663350,
+          "stop" : 1720764663780,
+          "duration" : 430
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Незаполненное поле месяца",
+        "uid" : "974ecb5afe417b02",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764657214,
+          "stop" : 1720764657610,
+          "duration" : 396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Незаполненная форма",
+        "uid" : "35bbd2a0181f67c1",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764658028,
+          "stop" : 1720764658216,
+          "duration" : 188
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Покупка картой APPROVED",
+        "uid" : "56fcb02a9bb77910",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764631881,
+          "stop" : 1720764635791,
+          "duration" : 3910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Нули в поле месяц",
+        "uid" : "7ada3904672f4084",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764664616,
+          "stop" : 1720764665039,
+          "duration" : 423
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Спецсимвол в поле владелец",
+        "uid" : "6cb64b8cc5e6c69a",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764658218,
+          "stop" : 1720764662884,
+          "duration" : 4666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "CVC/CVV заполнен нулями",
+        "uid" : "3a210633ebb6f3c4",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764692766,
+          "stop" : 1720764697496,
+          "duration" : 4730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле месяц цифры и спецсимвола",
+        "uid" : "f39d7a956a25da8c",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764650918,
+          "stop" : 1720764651356,
+          "duration" : 438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Поле год не заполнено",
+        "uid" : "b4ac5ad64cbecea1",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764671635,
+          "stop" : 1720764672035,
+          "duration" : 400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле CVC/CVV цифры и буквы",
+        "uid" : "f1305170f2556873",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764670357,
+          "stop" : 1720764670779,
+          "duration" : 422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Поле год одна цифра",
+        "uid" : "d51857bce0e681d",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764651759,
+          "stop" : 1720764652189,
+          "duration" : 430
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод менее 16 цифр в поле карты",
+        "uid" : "cfb463ae59513d5e",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764698359,
+          "stop" : 1720764698774,
+          "duration" : 415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Поле владелец на кириллице",
+        "uid" : "76b7c63822b1f4e1",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764635838,
+          "stop" : 1720764640427,
+          "duration" : 4589
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле CVC/CVV двух цифр",
+        "uid" : "273f542294142b86",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764670780,
+          "stop" : 1720764671198,
+          "duration" : 418
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Незаполненное поле владелец",
+        "uid" : "ea87db466e89167c",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764669928,
+          "stop" : 1720764670355,
+          "duration" : 427
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Ввод в поле карты цифр и латиницы",
+        "uid" : "86f8b67d24533810",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764645593,
+          "stop" : 1720764645951,
+          "duration" : 358
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Номер карты одни нули",
+        "uid" : "3d3e4bd18cde8e6",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764665050,
+          "stop" : 1720764668571,
+          "duration" : 3521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Одна цифра в поле месяц",
+        "uid" : "4da00c741154bd2f",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1720764697904,
+          "stop" : 1720764698357,
+          "duration" : 453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Одна буква в поле владелец",
+        "uid" : "e1fd9952a228841c",
+        "parentUid" : "d41df2da38413feaa475f748b8f713bf",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764652191,
+          "stop" : 1720764656787,
+          "duration" : 4596
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d41df2da38413feaa475f748b8f713bf"
+    } ],
+    "uid" : "a9b0dccf6dcc6b0d10f54fd4f4d5b353"
+  } ]
+}

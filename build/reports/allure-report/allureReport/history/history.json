@@ -1,0 +1,675 @@
+{
+  "9ec7cd8ddfd3e8ccaaee6d1638c25ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63c676b33f73867b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764671200,
+        "stop" : 1720764671633,
+        "duration" : 433
+      }
+    } ]
+  },
+  "523a0b5ae3e71002c5ccd81336d3d7a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "64f04dd28228c5a5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764645211,
+        "stop" : 1720764645591,
+        "duration" : 380
+      }
+    } ]
+  },
+  "d361c60513d9fa8c568e776a9a0510b5" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1fd9952a228841c",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764656623.3.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764656623.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764652191,
+        "stop" : 1720764656787,
+        "duration" : 4596
+      }
+    } ]
+  },
+  "4d3335fd42ab9dd6dfda9af1e65c6ab9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a556fc50978d98e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764669476,
+        "stop" : 1720764669926,
+        "duration" : 450
+      }
+    } ]
+  },
+  "f0d8aff7a1f1faa15110045d2bd8562d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ea87db466e89167c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764669928,
+        "stop" : 1720764670355,
+        "duration" : 427
+      }
+    } ]
+  },
+  "6ae69518390e91cb1ec28a6bf8ec81fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "35bbd2a0181f67c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764658028,
+        "stop" : 1720764658216,
+        "duration" : 188
+      }
+    } ]
+  },
+  "88f6e639802524e79d26663c7a665291" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f39d7a956a25da8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764650918,
+        "stop" : 1720764651356,
+        "duration" : 438
+      }
+    } ]
+  },
+  "e40e6c08a598498dffb05182f440f9ef" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76b7c63822b1f4e1",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764640254.0.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764640254.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764635838,
+        "stop" : 1720764640427,
+        "duration" : 4589
+      }
+    } ]
+  },
+  "74c2326359b01581c07e08cd5b6a3dcf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86f8b67d24533810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764645593,
+        "stop" : 1720764645951,
+        "duration" : 358
+      }
+    } ]
+  },
+  "a013e381e2b66107295f901e4e3499f3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2ce463a86e570443",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764668574,
+        "stop" : 1720764669022,
+        "duration" : 448
+      }
+    } ]
+  },
+  "65513cc5741a57d8dd69449a763c65fb" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6cb64b8cc5e6c69a",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764662719.4.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764662719.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764658218,
+        "stop" : 1720764662884,
+        "duration" : 4666
+      }
+    } ]
+  },
+  "f1c75cc1825812664986e92c09b1ab28" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a5c5c87837de7753",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Месяц/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764645016.1.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764645016.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764640437,
+        "stop" : 1720764645206,
+        "duration" : 4769
+      }
+    } ]
+  },
+  "80e34b8637b4f209d3b0f1f8c7548abb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b7bd46bcfce2ee05",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764651358,
+        "stop" : 1720764651757,
+        "duration" : 399
+      }
+    } ]
+  },
+  "881f63dbce4d941d3456aa907c3a11ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "974ecb5afe417b02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764657214,
+        "stop" : 1720764657610,
+        "duration" : 396
+      }
+    } ]
+  },
+  "7fd6bd693f41368b640878ba63c19c40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4f43160f95f6f76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764663782,
+        "stop" : 1720764664205,
+        "duration" : 423
+      }
+    } ]
+  },
+  "f3d22a30112dcbe359198903e6554f35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d51857bce0e681d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764651759,
+        "stop" : 1720764652189,
+        "duration" : 430
+      }
+    } ]
+  },
+  "8d43dd8c5b2a2e466c91f68156555be" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2d5e7588c9491903",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764662887,
+        "stop" : 1720764663346,
+        "duration" : 459
+      }
+    } ]
+  },
+  "ddfe395f070a35702cbcc3119a564237" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b4ac5ad64cbecea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764671635,
+        "stop" : 1720764672035,
+        "duration" : 400
+      }
+    } ]
+  },
+  "6acc3e0116340efef09074806dc2787b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "273f542294142b86",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764670780,
+        "stop" : 1720764671198,
+        "duration" : 418
+      }
+    } ]
+  },
+  "62ff6c208ec8c8c4e446672dc075fa46" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4da00c741154bd2f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764697904,
+        "stop" : 1720764698357,
+        "duration" : 453
+      }
+    } ]
+  },
+  "4b97646c29695d3fdbb70da5831915ab" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1305170f2556873",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764670357,
+        "stop" : 1720764670779,
+        "duration" : 422
+      }
+    } ]
+  },
+  "2702c44b1b1648d50e8d5ef84652833a" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "de9bcf791b5bbf9",
+      "status" : "failed",
+      "statusDetails" : "Element should be visible {div.notification.notification_status_error.notification_has-closer.notification_stick-to_right.notification_theme_alfa-on-white}\r\nElement: '<div class=\"notification notification_status_error notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764692618.5.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764692618.5.html\r\nTimeout: 20 s.",
+      "time" : {
+        "start" : 1720764672037,
+        "stop" : 1720764692764,
+        "duration" : 20727
+      }
+    } ]
+  },
+  "2ac08610e6753d64a12996fb0e80d450" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3d3e4bd18cde8e6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764665050,
+        "stop" : 1720764668571,
+        "duration" : 3521
+      }
+    } ]
+  },
+  "cafd94161d7e12b98dbf0f6ec754850a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "266c62a76322eb0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764663350,
+        "stop" : 1720764663780,
+        "duration" : 430
+      }
+    } ]
+  },
+  "fd009a8bd3f55e5f348cbe0d142ed6ee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "12769cb47c876bad",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764703265.7.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764703265.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764698776,
+        "stop" : 1720764703414,
+        "duration" : 4638
+      }
+    } ]
+  },
+  "8a4a0c20afa322804022cb4fe052698d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "943fc257c5efb30a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764669024,
+        "stop" : 1720764669474,
+        "duration" : 450
+      }
+    } ]
+  },
+  "7ec25de162f932d8eaa287469847d11e" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a210633ebb6f3c4",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: CVC/CVV/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764697289.6.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764697289.6.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764692766,
+        "stop" : 1720764697496,
+        "duration" : 4730
+      }
+    } ]
+  },
+  "18c844873a21f4b3f95e86fac1fa8a0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "56fcb02a9bb77910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764631881,
+        "stop" : 1720764635791,
+        "duration" : 3910
+      }
+    } ]
+  },
+  "4f14c04c8569c92a9d236499b13a1314" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e4fa4b6ff1fc1eb",
+      "status" : "failed",
+      "statusDetails" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764650656.2.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764650656.2.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "time" : {
+        "start" : 1720764645963,
+        "stop" : 1720764650916,
+        "duration" : 4953
+      }
+    } ]
+  },
+  "262017d473d63374dc45eb14c24c48a5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "24e8b8bcbc86bb3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764697498,
+        "stop" : 1720764697901,
+        "duration" : 403
+      }
+    } ]
+  },
+  "67272638adc8da5e557bed4644533ce3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cfb463ae59513d5e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764698359,
+        "stop" : 1720764698774,
+        "duration" : 415
+      }
+    } ]
+  },
+  "6121a60163f2d63fb6e5f3da253c6c54" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "20b067c683f6afd2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764656791,
+        "stop" : 1720764657212,
+        "duration" : 421
+      }
+    } ]
+  },
+  "f4fef0c950577258590f218c7b99fbcf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "51e071585b736e54",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764664207,
+        "stop" : 1720764664614,
+        "duration" : 407
+      }
+    } ]
+  },
+  "8e791c5101af9b2a2e92bb66d7d98bb8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "105dae592a8a35a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764657612,
+        "stop" : 1720764658026,
+        "duration" : 414
+      }
+    } ]
+  },
+  "8eb65f93a30f085a1832aba0832e7c71" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7ada3904672f4084",
+      "status" : "passed",
+      "time" : {
+        "start" : 1720764664616,
+        "stop" : 1720764665039,
+        "duration" : 423
+      }
+    } ]
+  }
+}

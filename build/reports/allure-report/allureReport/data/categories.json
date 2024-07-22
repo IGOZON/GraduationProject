@@ -1,0 +1,145 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764640254.0.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764640254.0.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Поле владелец на кириллице",
+        "uid" : "76b7c63822b1f4e1",
+        "parentUid" : "75f607e9050a3f99940405b15ff26a53",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764635838,
+          "stop" : 1720764640427,
+          "duration" : 4589
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "75f607e9050a3f99940405b15ff26a53"
+    }, {
+      "name" : "Element not found {by text: Месяц/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764645016.1.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764645016.1.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Нули в поле месяц",
+        "uid" : "a5c5c87837de7753",
+        "parentUid" : "46d30396e9bd18efb61f6c5157f7fd98",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764640437,
+          "stop" : 1720764645206,
+          "duration" : 4769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "46d30396e9bd18efb61f6c5157f7fd98"
+    }, {
+      "name" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764650656.2.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764650656.2.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Более 100 букв в поле владелец",
+        "uid" : "e4fa4b6ff1fc1eb",
+        "parentUid" : "9b391fbb2610bc7b770c05afb75599d4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764645963,
+          "stop" : 1720764650916,
+          "duration" : 4953
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9b391fbb2610bc7b770c05afb75599d4"
+    }, {
+      "name" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764656623.3.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764656623.3.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Одна буква в поле владелец",
+        "uid" : "e1fd9952a228841c",
+        "parentUid" : "119987eea0125ea31acb5945c69de7a8",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764652191,
+          "stop" : 1720764656787,
+          "duration" : 4596
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "119987eea0125ea31acb5945c69de7a8"
+    }, {
+      "name" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764662719.4.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764662719.4.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Спецсимвол в поле владелец",
+        "uid" : "6cb64b8cc5e6c69a",
+        "parentUid" : "9afabda138e1d81fc463668e8dcf6cfe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764658218,
+          "stop" : 1720764662884,
+          "duration" : 4666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9afabda138e1d81fc463668e8dcf6cfe"
+    }, {
+      "name" : "Element should be visible {div.notification.notification_status_error.notification_has-closer.notification_stick-to_right.notification_theme_alfa-on-white}\r\nElement: '<div class=\"notification notification_status_error notification_has-closer notification_stick-to_right notification_theme_alfa-on-white\" displayed:false></div>'\r\nActual value: hidden\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764692618.5.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764692618.5.html\r\nTimeout: 20 s.",
+      "children" : [ {
+        "name" : "Покупка картой DECLINED",
+        "uid" : "de9bcf791b5bbf9",
+        "parentUid" : "5e1d9cf1ee56327ac994c00717d61375",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764672037,
+          "stop" : 1720764692764,
+          "duration" : 20727
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e1d9cf1ee56327ac994c00717d61375"
+    }, {
+      "name" : "Element not found {by text: CVC/CVV/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764697289.6.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764697289.6.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "CVC/CVV заполнен нулями",
+        "uid" : "3a210633ebb6f3c4",
+        "parentUid" : "aedb6bb9f8eacada86307c716c8590f7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764692766,
+          "stop" : 1720764697496,
+          "duration" : 4730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aedb6bb9f8eacada86307c716c8590f7"
+    }, {
+      "name" : "Element not found {by text: Владелец/By.xpath: ../.input__sub}\r\nExpected: visible\r\nScreenshot: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764703265.7.png\r\nPage source: file:/C:/Users/IGOZON/Desktop/IdeaProjects/GraduationProject/build/reports/tests/1720764703265.7.html\r\nTimeout: 4 s.\r\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".input__sub\"}",
+      "children" : [ {
+        "name" : "Цифра в поле владелец",
+        "uid" : "12769cb47c876bad",
+        "parentUid" : "409f022d4b45780fd244f36e84305034",
+        "status" : "failed",
+        "time" : {
+          "start" : 1720764698776,
+          "stop" : 1720764703414,
+          "duration" : 4638
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "409f022d4b45780fd244f36e84305034"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
